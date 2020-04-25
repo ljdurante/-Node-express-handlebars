@@ -1,0 +1,26 @@
+{
+  "name": "-node-express-handlebars",
+  "version": "1.0.0",
+  "description": "HW",
+  "main": "index.js",
+  "dependencies": {
+    "express": "^4.17.1",
+    "handlebars": "^4.7.6",
+    "mysql": "^2.18.1",
+    "package-json": "^6.5.0"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/ljdurante/-Node-express-handlebars.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/ljdurante/-Node-express-handlebars/issues"
+  },
+  "homepage": "https://github.com/ljdurante/-Node-express-handlebars#readme"
+}
